@@ -1,0 +1,3 @@
+The Mapty App is a web-based fitness tracker that enables users to log and visualize their running and cycling workouts on an interactive map. Developed using HTML, CSS, and JavaScript, and leveraging the Leaflet.js library for map integration, Mapty offers a user-friendly interface for fitness enthusiasts to monitor their activities.
+
+Users can add workouts by clicking on the map, inputting details such as distance, duration, and either cadence (for running) or elevation gain (for cycling). The app then calculates metrics like pace or speed and places a marker on the map corresponding to the workout location
